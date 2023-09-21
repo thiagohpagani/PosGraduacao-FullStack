@@ -1,4 +1,4 @@
-# Projeto base do módulo React 2
+# Projeto base do módulo React 3
 
 Este diretório contém a estrutura base para um projeto com:
 
